@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ska-1
 - 👀 I’m interested in data science, algorithmic trading and keeping my myself updated with the latest tech news.
-- 🌱 I’m currently learning Hierarchical clustering for unsupervised learning.
+- 🌱 I’m currently learning Generative AI.
 - 💞️ I’m looking to collaborate with someone for a hackathon!
 
 <!---
